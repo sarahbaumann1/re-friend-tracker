@@ -55,6 +55,7 @@ export class GuiModel {
                             "width": 2
                         },
                         {
+                            
                             "id": "comment",
                             "type": "text",
                             "name": "Comments",
