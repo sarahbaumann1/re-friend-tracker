@@ -298,6 +298,7 @@ export class GuiModel {
                             "color": "red",
                             "search": true,
                             "url": "/location/:locationKey/activity"
+                        
                         }
                     ]
                 },
